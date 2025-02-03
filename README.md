@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-About me:
-  - Student @ Florida State University
-  - LinkedIn: www.linkedin.com/in/conner-murphy-0425b2225
-  - Email: connermurphy03@gmail.com
+
 
 <!--
 **comurphy22/comurphy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
