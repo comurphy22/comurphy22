@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Conner Murphy
+- FSU Computer Science
+- I'm interested in Software Engineering and Machine Learning
 <!--
 **comurphy22/comurphy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
