@@ -10,16 +10,15 @@
 
 ### 👋 About Me
 
-I'm a software engineer building my skills through the Hackbright Academy fellowship, working on real projects one commit at a time. I enjoy **getting my hands dirty and solving complex coding and architectural problems by diving deep**.
-
-- 🔭 Currently working on: **ML for robotics (GT OMSCS)**
-- 🌱 Currently learning: **C# and dotnet framwork**
+- Software engineer at JM Family Enterprises
+- FSU CS Alumni
+- Part-time Georgia Tech OMSCS student
+- Developing golfer
+- Washed rugby player
 
 <br>
 
 ### 🛠️ Tech I've Worked With
-
-*Keep the badges that actually apply to you and delete the rest — grab more from [Simple Icons](https://simpleicons.org/) as you pick up new tools.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
