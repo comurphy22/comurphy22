@@ -53,9 +53,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [comurphy22/comurphy22](https://github.com/comurphy22/comurphy22)<br>
 2. ⬆️ Pushed undefined commit(s) to [comurphy22/comurphy22](https://github.com/comurphy22/comurphy22)<br>
-3. ❗️ Opened issue [#10](https://github.com/comurphy22/comurphy22/issues/10) in [comurphy22/comurphy22](https://github.com/comurphy22/comurphy22)<br>
-4. ❗️ Opened issue [#9](https://github.com/comurphy22/comurphy22/issues/9) in [comurphy22/comurphy22](https://github.com/comurphy22/comurphy22)<br>
-5. ❗️ Opened issue [#8](https://github.com/comurphy22/comurphy22/issues/8) in [comurphy22/comurphy22](https://github.com/comurphy22/comurphy22)<br>
+3. ⬆️ Pushed undefined commit(s) to [comurphy22/comurphy22](https://github.com/comurphy22/comurphy22)<br>
+4. ⬆️ Pushed undefined commit(s) to [comurphy22/comurphy22](https://github.com/comurphy22/comurphy22)<br>
+5. ⬆️ Pushed undefined commit(s) to [comurphy22/comurphy22](https://github.com/comurphy22/comurphy22)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
