@@ -1,13 +1,13 @@
 {
   "board": [
     "O",
-    "",
+    "O",
     "X",
     "X",
     "X",
     "O",
     "O",
-    "",
+    "X",
     ""
   ],
   "status": "in_progress"

@@ -80,9 +80,9 @@ I'm a software engineer building my skills through the Hackbright Academy fellow
 <!-- TICTACTOE:START -->
 
 <table align="center">
-<tr><td align="center" width="46">O</td><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A1">&#183;</a></td><td align="center" width="46">X</td></tr>
+<tr><td align="center" width="46">O</td><td align="center" width="46">O</td><td align="center" width="46">X</td></tr>
 <tr><td align="center" width="46">X</td><td align="center" width="46">X</td><td align="center" width="46">O</td></tr>
-<tr><td align="center" width="46">O</td><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A7">&#183;</a></td><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A8">&#183;</a></td></tr>
+<tr><td align="center" width="46">O</td><td align="center" width="46">X</td><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A8">&#183;</a></td></tr>
 </table>
 
 <p align="center"><sub>Click an open square to play as X.</sub></p>
