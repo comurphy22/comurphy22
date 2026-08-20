@@ -1,14 +1,14 @@
 {
   "board": [
     "",
-    "",
+    "X",
     "O",
     "",
     "O",
     "X",
-    "",
+    "O",
     "",
     "X"
   ],
-  "status": "in_progress"
+  "status": "bot_wins"
 }

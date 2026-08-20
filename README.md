@@ -81,12 +81,12 @@
 <!-- TICTACTOE:START -->
 
 <table align="center">
-<tr><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A0">&#183;</a></td><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A1">&#183;</a></td><td align="center" width="46">O</td></tr>
-<tr><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A3">&#183;</a></td><td align="center" width="46">O</td><td align="center" width="46">X</td></tr>
-<tr><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A6">&#183;</a></td><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A7">&#183;</a></td><td align="center" width="46">X</td></tr>
+<tr><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A0">&#183;</a></td><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A1">X</a></td><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A2">O</a></td></tr>
+<tr><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A3">&#183;</a></td><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A4">O</a></td><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A5">X</a></td></tr>
+<tr><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A6">O</a></td><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A7">&#183;</a></td><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A8">X</a></td></tr>
 </table>
 
-<p align="center"><sub>Click an open square to play as X.</sub></p>
+<p align="center"><sub>The bot won this round. Opening a new move starts a fresh game.</sub></p>
 
 <!-- TICTACTOE:END -->
 
