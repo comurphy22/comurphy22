@@ -55,8 +55,8 @@ I'm a software engineer building my skills through the Hackbright Academy fellow
 
 *This section rewrites itself every 30 minutes — a GitHub Action reads my public activity and edits this file directly.*
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 <br>
 
