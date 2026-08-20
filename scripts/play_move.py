@@ -59,13 +59,12 @@ def parse_move(title):
 def render_board(board, status, repo):
     cells = []
     for i, v in enumerate(board):
-        if v:
+        if status == "in_progress" and v:
             cells.append(f'<td align="center" width="46">{v}</td>')
-        elif status == "in_progress":
-            url = f"https://github.com/{repo}/issues/new?title=move%3A{i}"
-            cells.append(f'<td align="center" width="46"><a href="{url}">&#183;</a></td>')
         else:
-            cells.append('<td align="center" width="46">&#183;</td>')
+            url = f"https://github.com/{repo}/issues/new?title=move%3A{i}"
+            label = v if v else "&#183;"
+            cells.append(f'<td align="center" width="46"><a href="{url}">{label}</a></td>')
     rows = [cells[0:3], cells[3:6], cells[6:9]]
     table = ['<table align="center">']
     for row in rows:

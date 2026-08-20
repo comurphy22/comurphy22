@@ -80,9 +80,9 @@ I'm a software engineer building my skills through the Hackbright Academy fellow
 <!-- TICTACTOE:START -->
 
 <table align="center">
-<tr><td align="center" width="46">O</td><td align="center" width="46">O</td><td align="center" width="46">X</td></tr>
-<tr><td align="center" width="46">X</td><td align="center" width="46">X</td><td align="center" width="46">O</td></tr>
-<tr><td align="center" width="46">O</td><td align="center" width="46">X</td><td align="center" width="46">X</td></tr>
+<tr><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A0">O</a></td><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A1">O</a></td><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A2">X</a></td></tr>
+<tr><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A3">X</a></td><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A4">X</a></td><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A5">O</a></td></tr>
+<tr><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A6">O</a></td><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A7">X</a></td><td align="center" width="46"><a href="https://github.com/comurphy22/comurphy22/issues/new?title=move%3A8">X</a></td></tr>
 </table>
 
 <p align="center"><sub>Draw. Opening a new move starts a fresh game.</sub></p>
