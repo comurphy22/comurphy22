@@ -10,14 +10,10 @@
 
 ### 👋 About Me
 
-I'm a software engineer building my skills through the Hackbright Academy fellowship, working on real projects one commit at a time. I enjoy **[pick what's true — problem-solving, clean UI, automating tedious things, learning in public]**.
+I'm a software engineer building my skills through the Hackbright Academy fellowship, working on real projects one commit at a time. I enjoy **getting my hands dirty and solving complex coding and architectural problems by diving deep**.
 
-- 🔭 Currently working on: **[project or Code Jam name]**
-- 🌱 Currently learning: **[language / framework / concept]**
-- 👯 Looking to collaborate on: **[type of project]**
-- 💬 Ask me about: **[a topic you like discussing]**
-- 📫 Reach me: **[LinkedIn / email — your call]**
-- ⚡ Fun fact: **[something that makes you, you]**
+- 🔭 Currently working on: **ML for robotics (GT OMSCS)**
+- 🌱 Currently learning: **C# and dotnet framwork**
 
 <br>
 
