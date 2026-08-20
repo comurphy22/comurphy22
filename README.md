@@ -9,12 +9,12 @@
 <br>
 
 ### 👋 About Me
-
 - Software engineer at JM Family Enterprises
 - FSU CS Alumni
 - Part-time Georgia Tech OMSCS student
 - Developing golfer
 - Washed rugby player
+- Entrepreneur (buy my course)
 
 <br>
 
