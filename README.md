@@ -49,7 +49,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [comurphy22/JMF4-Unit-3-Assessment](https://github.com/comurphy22/JMF4-Unit-3-Assessment)<br>
-2. 🔱 Forked [comurphy22/JMF4-Unit-3-Assessment](https://github.com/comurphy22/JMF4-Unit-3-Assessment) from [marven250/JMF4-Unit-3-Assessment](https://github.com/marven250/JMF4-Unit-3-Assessment)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
