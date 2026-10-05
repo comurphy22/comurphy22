@@ -48,7 +48,6 @@
 *This section rewrites itself every 30 minutes — a GitHub Action reads my public activity and edits this file directly.*
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [comurphy22/JMF4-Unit-3-Assessment](https://github.com/comurphy22/JMF4-Unit-3-Assessment)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
